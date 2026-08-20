@@ -216,4 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-Container Shipping Number2-Forked on 8-19-2026.coco.zip
+Container Shipping Number2-Forked on 8-19-2026.coco.zip 
+assets
+test/
+app.py
